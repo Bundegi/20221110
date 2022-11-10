@@ -4,6 +4,7 @@
 #define fast ios::sync_with_stdio(0), cin.tie(nullptr), cout.tie(nullptr)
 #define endl "\n"
 using namespace std;
+//1180 행렬 문제 문제를 너무 어렵게 생각했었는데 막상 짜보니 어렵게 풀진 않은 것 같다.
 int main() {
 	fast;
 	int N, M,count=0;
